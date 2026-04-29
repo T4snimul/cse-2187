@@ -1,4 +1,4 @@
-# HelloWorld C++ Project
+# C++ Setup on Linux
 
 A simple "Hello World" C++ project using CMake and Ninja.
 
