@@ -1,0 +1,3 @@
+/workspaces/cse-2187/Dev/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/workspaces/cse-2187/Dev/HelloWorld/build/CMakeFiles/edit_cache.dir
+/workspaces/cse-2187/Dev/HelloWorld/build/CMakeFiles/rebuild_cache.dir
