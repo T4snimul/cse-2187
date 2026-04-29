@@ -6,21 +6,7 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 
 ## Projects
 
-### HelloWorld C++ Project
-A foundational C++ project demonstrating:
-- **C++ Basics**: Console I/O, standard library usage
-- **Build System**: CMake configuration and Ninja build system
-- **Development Setup**: Headless environment configuration for VS Code Codespaces
-- **Best Practices**: Clean build directory structure, automated build scripts
-
-**[View Project Documentation →](Dev/HelloWorld/README.md)**
-
-**Quick Start:**
-```bash
-cd Dev/HelloWorld
-./build.sh
-./build/src/Main
-```
+### 1. **[C++ Linux Setup](Dev/HelloWorld/README.md)**
 
 ---
 
@@ -72,31 +58,6 @@ cd Dev/HelloWorld
   - [ ] Queues
   - [ ] Stacks
 
-## Environment Setup
-
-This repository is configured for VS Code Codespaces with the following features:
-- **Headless Build System**: Uses CMake and Ninja for CLI-based compilation
-- **Automated Scripts**: Build scripts eliminate manual setup
-- **Clean Architecture**: Organized project structure with isolated build directories
-
-## Development Environment
-
-- **OS**: Ubuntu 24.04.4 LTS (in dev container)
-- **Build System**: CMake 3.28+
-- **Build Generator**: Ninja
-- **C++ Compiler**: GCC/G++
-- **Editor**: VS Code with C/C++ extension
-
-## Getting Started
-
-1. Clone the repository
-2. Navigate to a project directory (e.g., `Dev/HelloWorld/`)
-3. Follow the project's README for setup instructions
-4. Run the build script or build manually
-
 ## Resources
 
-- [CMake Documentation](https://cmake.org/documentation/)
-- [Ninja Build System](https://ninja-build.org/)
-- [C++ Reference](https://en.cppreference.com/)
-- [Java Documentation](https://docs.oracle.com/javase/)
+- [C++ by The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)

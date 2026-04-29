@@ -14,4 +14,4 @@ set (source_dir "${PROJECT_SOURCE_DIR}/src/")
 file (GLOB source_files "${source_dir}/*.cpp")
 
 # Create an executable named HelloWorld from the collected source files
-add_executable(HelloWorld ${source_files})
+add_executable(Main ${source_files})
