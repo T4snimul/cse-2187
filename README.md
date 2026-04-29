@@ -2,9 +2,7 @@
 
 ## Topics
 
-# 📘 Structured Syllabus
-
-## 1. Object Oriented Programming (C++ & Java)
+### 1. Object Oriented Programming (C++ & Java)
 - [ ] Class and Object  
 - [ ] Inheritance  
 - [ ] Arrays of Objects  
@@ -14,7 +12,7 @@
 - [ ] Polymorphism  
 - [ ] OOP with C++  
 
-## 2. Java Fundamentals
+### 2. Java Fundamentals
 - [ ] Introduction to Java  
 - [ ] Java Development Environment  
 - [ ] JVM (Java Virtual Machine)  
@@ -29,10 +27,10 @@
 - [ ] Execution of Java Programs in UNIX Operating System  
 - [ ] Introduction to Applets  
 
-## 4. Robotics Software
+### 4. Robotics Software
 - [ ] Introduction to application software for Robot Programming  
 
-## 5. Software Design
+### 5. Software Design
 - [ ] Software Life-cycle Models  
 - [ ] Software Requirements  
 - [ ] Object-Oriented Analysis and Design (UML)  
@@ -40,7 +38,7 @@
 - [ ] Support Processes  
 - [ ] Software Quality  
 
-## 6. Software Development
+### 6. Software Development
 - [ ] Software Specification  
 - [ ] Software Process  
 - [ ] Software Modularization  
