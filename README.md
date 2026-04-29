@@ -6,9 +6,7 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 
 ## Projects
 
-1. **[C++ Linux Setup](Dev/HelloWorld/README.md)**
-
----
+1. [C++ Linux Setup](Dev/HelloWorld/README.md)
 
 ## Course Content & Topics
 
