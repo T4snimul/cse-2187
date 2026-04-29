@@ -1,0 +1,56 @@
+# Build directories and files (anywhere in the tree)
+**/build/
+**/cmake-build-*/
+**/out/
+**/bin/
+**/obj/
+
+# Build directories and files (root level)
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# CMake generated files (anywhere)
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/*.cmake
+
+# CMake generated files (root level)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Visual Studio build artifacts (anywhere)
+**/.vs/
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+
+# Visual Studio build artifacts (root level)
+.vs/
+x64/
+x86/
+Debug/
+Release/
+
+# IDE files
+.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
