@@ -15,6 +15,7 @@ HelloWorld/
 ## Prerequisites
 
 Install dependencies:
+
 ```bash
 sudo apt update
 sudo apt install cmake ninja-build build-essential
@@ -23,11 +24,13 @@ sudo apt install cmake ninja-build build-essential
 ## Building
 
 Run the build script:
+
 ```bash
-./build.sh
+bash build.sh
 ```
 
 Or manually:
+
 ```bash
 mkdir -p build && cd build
 cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Debug ..

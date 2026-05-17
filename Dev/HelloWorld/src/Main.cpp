@@ -1,8 +1,11 @@
 #include <iostream> // for input/output operations
 
-int main() {
+void Log(const char *message);
+
+int main()
+{
   // Print "Hello World!" to the console followed by a newline
-  std::cout << "Hello World!" << std::endl;
+  Log("Goodbye World"); // what happened here is 'linking' which didn't require us to import the Log function
 
   // Wait for user input before closing the program
   std::cin.get();

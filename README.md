@@ -6,11 +6,12 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 
 ## Projects
 
-1. [C++ Linux Setup](Dev/HelloWorld/README.md) : Getting started with C++
+1. [C++ Linux Setup](Dev/HelloWorld/) : Getting started with C++
 
 ## Course Content & Topics
 
 ### 1. Object Oriented Programming (C++ & Java)
+
 - [ ] Class and Object
 - [ ] Inheritance
 - [ ] Arrays of Objects
@@ -21,6 +22,7 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 - [ ] OOP with C++
 
 ### 2. Java Fundamentals
+
 - [ ] Introduction to Java
 - [ ] Java Development Environment
 - [ ] JVM (Java Virtual Machine)
@@ -29,6 +31,7 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 - [ ] Variables, Operators, and Data Types
 
 ### 3. Java Advanced Concepts
+
 - [ ] Classes
 - [ ] Threads
 - [ ] Concept of Threading
@@ -36,9 +39,11 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 - [ ] Introduction to Applets
 
 ### 4. Robotics Software
+
 - [ ] Introduction to application software for Robot Programming
 
 ### 5. Software Design
+
 - [ ] Software Life-cycle Models
 - [ ] Software Requirements
 - [ ] Object-Oriented Analysis and Design (UML)
@@ -47,6 +52,7 @@ This repository contains coursework and projects for CSE 2187: Software Engineer
 - [ ] Software Quality
 
 ### 6. Software Development
+
 - [ ] Software Specification
 - [ ] Software Process
 - [ ] Software Modularization
