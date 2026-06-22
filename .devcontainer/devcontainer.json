@@ -1,3 +1,8 @@
 {
-  "postCreateCommand": "cp .devcontainer/.bashrc ~/.bashrc && source ~/.bashrc"
+  "postCreateCommand": "cp .devcontainer/.bashrc ~/.bashrc && source ~/.bashrc",
+  "features": {
+    "ghcr.io/devcontainers/features/apt-packages:1": {
+      "packages": "ninja-build"
+    }
+  }
 }
