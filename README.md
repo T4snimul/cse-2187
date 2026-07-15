@@ -4,9 +4,12 @@
 
 This repository contains coursework and projects for CSE 2187: Software Engineering. The course covers Object-Oriented Programming, Java fundamentals, software design principles, and software development methodologies.
 
+## Notes
+
+- [C++ Short Notes](notes/cpp-short-notes.md) : cheatsheet for variables, functions, classes etc.
+
 ## Projects
 
-- [C++ Linux Setup](projects/hello-world/) : Getting started with C++
 - [Robot Path Planning Simulatro](projects/robot-path-planning-simulator/) : A C++ application that simulates a robot navigating a 2D grid environment and finding the shortest path from a starting position to a goal while avoiding obstacles.
 
 ## Course Content & Topics
